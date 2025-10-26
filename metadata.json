@@ -1,0 +1,7 @@
+{
+  "name": "LeafLens: AI Plant Identifier",
+  "description": "An AI-powered web application that allows users to identify plants by scanning a leaf with their device's camera or uploading an image. Get detailed plant information, care instructions, and save findings to a personal digital garden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
